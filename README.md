@@ -1,2 +1,3 @@
-# advanced-data-visualizer-pwry
+# Advanced Data Visualizer Pwry
+
 A data visualization tool for modern development workflows.
